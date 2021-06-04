@@ -1,4 +1,4 @@
-# AV Streaming program
+# ZoomClone
 This is an audio and video streaming program with screen sharing.
 
 ## How to use:
